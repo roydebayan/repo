@@ -1,10 +1,9 @@
 package mypackage;
 
 public class App {
+	int name = 2;
+	static int another = 32;
+	
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("hello world");
-	}
 
 }
